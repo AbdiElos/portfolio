@@ -71,7 +71,7 @@ export const Navbar = () => {
           </li>
           <li className="nav__list-item">
             <a
-              href="https://doc-0k-0g-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/1d31toa0m8kuf5irdvvmb2sl08r4psih/7of7ic9u778gpnjsi2rp8m9jeaolqd90/1720771425000/3/118275094899730988414/APznzaY3GPQ_Thx4zE7QMkLCbl3yj5BuLpoMVK7Wr1HAV914gNzoWZia57-Ija2meun7g4Mutl-KABG-L9A83Gaf9Jyo3hNPohS-kCdmWceQVBBRgzfuYi1pnHT0g4qZXA76X5eXUO8xorr1sEuTyJ0Pza9HNX6gNnjvatztkjnRDyVyAQZRgW9-p0ApXbC_4nLnHWZTOQoeFlWIdIVlvR8ADbUvm_7i9frnKee4Jwyikvy6a3zE2zyI0cTwgOa0hdKQ4CLSiUQ87JTugwdW-DQKuYp4Zu4ebj_xjs4JbUHVKxU9b1hOvFy0NL9Z4cuyriYa6pT_3G8_IkXRToc2jRFNr05uWQwOJBMTgkrQ5IAZW7R7Z7Q3ZsfB-BBN-p5eaK4u0pHHaij79zrihsh79phMvBuF_UlyISuQRtQhpEUqPNttgmNiZ5M=?authuser=0&nonce=2fpq6or0dtate&user=118275094899730988414&hash=jg6madb878pflmqporl2qn8nun41qsg4"
+              href="https://drive.google.com/file/d/1501ynK06otOpREwAAaelq5U6LRGW4ukd/view"
               onClick={toggleNavList}
               className="link link--nav"
               target="_blank"

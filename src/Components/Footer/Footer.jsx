@@ -12,7 +12,7 @@ export const Footer = () => {
           <div className="footerBox">
             <h3 className="footer">
               Made with{" "}
-              <span style={{ color: `red`, background: `transparent` }}>❤</span>{" "}
+              <span style={{ color: `red`, background: `transparent` }}></span>{" "}
               By Abdi ELias
             </h3>
           </div>
